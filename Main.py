@@ -6,7 +6,7 @@ from src.Consultar import consultar
 cocheLista = []
 
 while True:
-    print("1. Ingresar coche")
+    print("1. Ingresar coches")
     print("2. Ver listado de coches")
     print("3. Eliminar coche por marca")
     print("4. Actualizar coche por marca")
